@@ -1,1 +1,1 @@
-# Baza danych do portalu wspólnych spacerów i ewentualnych rozmów
+## Baza danych do portalu wspólnych spacerów i ewentualnych rozmów
