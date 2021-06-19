@@ -1,1 +1,1 @@
-# Portal wspolnych spacerow i ewentualnych rozmow
+# Baza danych do portalu wspólnych spacerów i ewentualnych rozmów
